@@ -1,13 +1,13 @@
 R_Blocks
 =================
 
-R_Blocks is a Project which tens to illustrate usage of blocks and their advantages.
+R_Blocks is a Project which tends to illustrate usage of blocks and their advantages.
 
 At the moment project contains blocks on:
 - NSArray
 - NSDictionary
 
-At it's curent state it's not finished yet, there's a lot more to come like, blocks for sorting arrays by different algorythms, NSOperationQueue, GCD and a lot of other objects from Foundation, UIKit, AppKit, StoreKit and more.
+At it's curent state it's not finished yet, and there's a lot more to come like, blocks for sorting arrays by different algorythms, NSOperationQueue, GCD and a lot of other objects from Foundation, UIKit, AppKit, StoreKit and more.
 Thank you for your patience.
 
 Usage ViewController.h
