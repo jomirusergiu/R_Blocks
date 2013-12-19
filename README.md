@@ -50,7 +50,6 @@ Usage ViewController.m
 }
 
 - (void)applyNSDictionaryBlocks{
-    
     // Create Dictionary
     NSMutableDictionary *dict = [[NSMutableDictionary alloc] initWithObjects:@[@"object1" , @"object2" , @"object3"] forKeys:@[@"key1" , @"key2" , @"key3"]];
     
