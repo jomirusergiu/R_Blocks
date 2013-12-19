@@ -20,7 +20,7 @@ Usage ViewController.h
 Usage ViewController.m
 -------------
 ```Objective-C
-    - (void)viewDidLoad
+- (void)viewDidLoad
 {
     [super viewDidLoad];
     
