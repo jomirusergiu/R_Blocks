@@ -8,7 +8,7 @@ At the moment project contains blocks on:
 - NSDictionary
 
 At it's curent state it's not finished yet, and there's a lot more to come.. like, blocks for sorting arrays by different algorythms, NSOperationQueue, GCD and a lot of other objects from Foundation, UIKit, AppKit, StoreKit and more...
-Thank you for your patience.
+Thank you for your patience...
 
 Usage ViewController.h
 -------------
